@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+			background: #FF4F4F;
+		}
+		th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+			color:#FFF;
+            background-color: #FFF;
+        }
+        tr {
+            background-color: #FFF;
+        }
+		h1 {
+			 color: black;
+			 top:auto;
+		}
+		
+

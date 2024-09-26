@@ -1,0 +1,24 @@
+misDatos([
+	{
+		"id":10,
+		"nombre":"Zapatos",
+		"talla":"28",
+		"precio":"$282",
+		"inve":10
+	},
+	{
+		"id":11,
+		"nombre":"Tennis",
+		"talla":25,
+		"precio":"$270",
+		"inve":08
+	},
+	{
+		"id":05,
+		"nombre":"Sandalis",
+		"talla":24,
+		"precio":"$224",
+		"inve":13
+	}
+	])
+	
